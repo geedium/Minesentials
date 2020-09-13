@@ -9,6 +9,7 @@ public class Main : JavaPlugin() {
 
     public override fun onEnable() {
         getLogger().info("Hello, this is plugin!");
+        getServer().getPluginManager().registerEvents(MainEvent(), this);
     }
 
     public override fun onDisable() {
