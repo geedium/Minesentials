@@ -1,6 +1,6 @@
 # Testing Kotlin
 ## Minecraft Spigot Plugin
-=======================
+
 Requires [Gradle](https://gradle.org/), [Kotlin](https://kotlinlang.org/)
 
 ```
