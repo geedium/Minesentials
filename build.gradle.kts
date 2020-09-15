@@ -14,8 +14,6 @@ plugins {
     application
 }
 
-version "1.0-SNAPSHOT"
-
 repositories {
     // Use jcenter for resolving dependencies.
     // You can declare any Maven/Ivy/file repository here.
