@@ -41,5 +41,5 @@ dependencies {
 }
 
 application {
-    mainClassName = "main.kotlin.KotlinTest.Main"
+    mainClassName = "me.minecraft.plugin.Main"
 }
