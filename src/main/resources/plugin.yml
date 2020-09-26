@@ -2,3 +2,7 @@ main: me.minecraft.plugin.Main
 name: MyPlugin
 version: 1.0.0
 api-version: 1.15
+commands:
+  back:
+    description: Teleport to last death location
+    usage: /<command>
